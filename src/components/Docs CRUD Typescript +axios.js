@@ -1,3 +1,5 @@
+/**
+
 CRUD React Typescript + axios
 
 1. Buat Folder (beri nama services) dan file untuk menyimpan interface dan axios.create
@@ -151,4 +153,6 @@ CRUD React Typescript + axios
                     .then(product => setProduct(product))
                     .catch(e => console.log(e))
             }
+
+*/
       
